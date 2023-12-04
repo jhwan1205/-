@@ -10,16 +10,16 @@
 쉬운 사이트 중에서도 당근마켓이 기본적인 기능들을 겪어볼 수 있는 것 같아 선택했습니다.
 
 ## 🏃 팀 구성
-*Front End
- +
-*Back End
- +
-*DB
- +
-*Security
- +
-*NetWork Protocol
- +
+* Front End
+ + 
+* Back End
+ + 
+* DB
+ + 
+* Security
+ + 
+* NetWork Protocol
+ + 
 
 
 ### 프로젝트 개발 환경
