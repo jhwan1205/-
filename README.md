@@ -11,15 +11,15 @@
 
 ## 🏃 팀 구성
 * Front End
- + 
+ + 정환철
 * Back End
- + 
+ + 정환철
 * DB
- + 
+ + 정환철
 * Security
- + 
+ + 이정민
 * NetWork Protocol
- + 
+ + 김보겸
 
 
 ### 프로젝트 개발 환경
