@@ -38,6 +38,22 @@
 * 데이터 베이스 : Amazon RDS
 * 이미지 저장 : S3
 
+## 필요 기능
+[상품 등록/삭제/수정]
+-이미지 첨부
+-text 작성
+
+[채팅 기능]
+-대화방 생성
+
+[회원가입]
+-계정 생성
+
+[로그인&로그아웃]
+
+
+![image](https://github.com/jhwan1205/-/assets/68339353/fdc5e0e7-1982-4027-9b6b-5f4f5d924747)
+
 ## ERD 다이어그램
 <img src="https://github.com/jhwan1205/-/assets/68339353/845f72c7-8122-4300-a658-5214ee8101e2" width="90%"></img>
 
