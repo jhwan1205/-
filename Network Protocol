@@ -1,0 +1,15 @@
+Preview :  다양한 프로토콜 조사하기 - 김보겸
+
+1주차
+
+1. OAuth 2.0
+- 로그인 시 개인정보를 물어보지 않고 타사 웹사이트 아이디의 접근 권한을 부여받을 수 있는 프로토콜
+  https://ko.wikipedia.org/wiki/OAuth
+  https://blog.naver.com/rnwnsgud90/222929352407
+
+2. 네트워크 레이어 구조 (클래스 다이어그램)
+  출처 : 
+  https://github.com/minsson/ios-hongdangmu-market?tab=readme-ov-file#-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EB%A0%88%EC%9D%B4%EC%96%B4-%EA%B5%AC%EC%A1%B0-%ED%81%B4%EB%9E%98%EC%8A%A4-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8
+
+3. 와이어샤크 교재 구입
+  출처 : https://smartstore.naver.com/bookq/products/9659467336?NaPm=ct%3Dltgzhdo0%7Cci%3Dd6cb5ae3ddeee057733431d4e036e5eb71edc490%7Ctr%3Dboknx%7Csn%3D711542%7Chk%3D32826540e5af7dc5f75ccd23f8f54f0df69336e3
