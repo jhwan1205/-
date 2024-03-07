@@ -55,8 +55,6 @@
 ### 관계도
 <img src="https://github.com/jhwan1205/-/issues/2#issue-2173645061" width="90%"></img>
 
-![image](https://github.com/jhwan1205/-/assets/68339353/fdc5e0e7-1982-4027-9b6b-5f4f5d924747)
-
 ## ERD 다이어그램
 <img src="https://github.com/jhwan1205/-/assets/68339353/845f72c7-8122-4300-a658-5214ee8101e2" width="90%"></img>
 
